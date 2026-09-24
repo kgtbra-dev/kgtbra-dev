@@ -1,20 +1,27 @@
-## Hi there 👋
+## Olá todo mundo!
 
-<!--
-**kgtbra-dev/kgtbra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
-<div>
-    <a href="https://github.com/kgtbra-dev">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=kgtbra-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgtbra-dev&layout=compact&langs_count=16&theme=dracula"/>
-    </a>
+<div align="center">
+  <a href="https://github.com/kgtbra-dev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kgtbra-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgtbra-dev&layout=compact&langs_count=16&theme=dracula" alt="Top Languages"/>
+  </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kgtbra-dev/kgtbra-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kgtbra-dev/kgtbra-dev/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kgtbra-dev/kgtbra-dev/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
 
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/kgtbra-dev/kgtbra-dev/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/kgtbra-dev/kgtbra-dev/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Snake animation"
+      src="https://raw.githubusercontent.com/kgtbra-dev/kgtbra-dev/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
