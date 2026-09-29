@@ -3,8 +3,8 @@
 > ⭐Construindo a web com HTML e CSS, com pitadas generosas de JavaScript. Criando interfaces que encantam⭐
 
 ### 🧰 Minha Caixa de Ferramentas:
-> 🚀 **Front-End:** JavaScript | HTML5 | CSS3 | TypeScript<br>
-> ⚙️ **Back-End:** JavaScript | Node.js<br>
+> 🚀 **Front-End:** JavaScript | HTML | CSS | 
+> ⚙️ **Back-End:** JavaScript | Node.js
 > 🗄️ **Banco de Dados:** | PostgreSQL |
 
 ---
