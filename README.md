@@ -31,7 +31,6 @@
 ---
 ### 🐍 Jogo da Cobrinha:
 
-> 🎮 Cuidado por onde anda! Minha cobrinha está faminta por commits... 🐍🔥
 
 
 <div align="left">
