@@ -31,7 +31,7 @@
 ---
 ### 🐍 Jogo da Cobrinha:
 
-
+> Um joguinho super funny ( >_< ) 
 
 <div align="left">
   <picture>
