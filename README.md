@@ -1,4 +1,4 @@
-# Olá, eu sou o Kevin Goulart! 👋
+# Olá, eu sou o Kevin Goulart! 
 
 > ⭐Construindo a web com HTML e CSS, com pitadas generosas de JavaScript. Criando interfaces que encantam⭐
 
