@@ -1,5 +1,7 @@
 # Olá, eu sou o Kevin Goulart! 
 
+> Programando e aprendendo.
+
 ### 🧰 Minha Caixa de Ferramentas:
 > 🎨**Front-End:** JavaScript | HTML | CSS | <br>
 > 💻**Back-End:** JavaScript | Node.js | <br>
