@@ -1,7 +1,5 @@
 # Olá, eu sou o Kevin Goulart! 
 
-> ⭐Construindo a web com HTML e CSS, com pitadas generosas de JavaScript. Criando interfaces que encantam
-
 ### 🧰 Minha Caixa de Ferramentas:
 > 🎨**Front-End:** JavaScript | HTML | CSS | <br>
 > 💻**Back-End:** JavaScript | Node.js | <br>
