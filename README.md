@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=08DFB9&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Kevin+Goulart!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=08DFB9&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Kevin+Goulart!" alt="Typing SVG" /></a>
+
 ⭐️ Programando e aprendendo. ⭐️
 
 ### 🧰 Minha Caixa de Ferramentas:
