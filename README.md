@@ -10,23 +10,24 @@
 ---
 ### 📊 Minhas Estatísticas:
 
+
 <div align="left">
   <a href="https://github.com/kgtbra-dev">
     <img
       height="180"
-      src="https://github-readme-stats-fast.vercel.app/api?username=kgtbra-dev&show_icons=true&theme=neon"
+      src="https://github-stats-extended.vercel.app/api?username=kgtbra-dev&show_icons=true&theme=neon&cache_seconds=86400"
       alt="GitHub Stats"
     />
   </a>
-
   <a href="https://github.com/kgtbra-dev">
     <img
       height="180"
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kgtbra-dev&layout=compact&langs_count=16&theme=neon"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=kgtbra-dev&layout=compact&langs_count=16&theme=neon&cache_seconds=86400"
       alt="Top Languages"
     />
   </a>
 </div>
+
 
 ---
 ### 🐍 Jogo da Cobrinha:
