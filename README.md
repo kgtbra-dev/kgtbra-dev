@@ -5,7 +5,7 @@
 ### 🧰 Minha Caixa de Ferramentas:
 > 🎨**Front-End:** JavaScript | HTML | CSS | <br>
 > 💻**Back-End:** JavaScript | Node.js | <br>
->🔒🛡️**Banco de Dados:** | PostgreSQL |<br>
+>🔒**Banco de Dados:** | PostgreSQL |<br>
 
 ---
 ### 📊 Minhas Estatísticas:
