@@ -51,4 +51,5 @@
   </picture>
 </div>
 
+---
 ⭐️ Programando e aprendendo ⭐️
