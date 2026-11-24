@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&pause=1000&color=30F7B5&width=435&lines=Oiii%2C+meu+nome+%C3%A9+Kevin+Goulart.+;Prazer+em+conhec%C3%AA-los" alt="Typing SVG" /></a>
 
-⭐️ Programando e aprendendo⭐️
-
 ###  Minha Caixa de Ferramentas:
 > **Front-End:** JavaScript | HTML | CSS | <br>
 > **Back-End:** JavaScript | Node.js | <br>
@@ -52,3 +50,5 @@
     />
   </picture>
 </div>
+
+⭐️ Programando e aprendendo ⭐️
